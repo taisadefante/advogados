@@ -28,7 +28,7 @@ export function Footer() {
         </a>
       </div>
 
-      <div className="pb-10 lg:pb-0">
+      <div className="pb-10 lg:pb-0 text-center flex flex-col items-center">
         <p>
           &copy; 2025 - DEFAN Soluções Digitais | Todos os direitos reservados.
         </p>
